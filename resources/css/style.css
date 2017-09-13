@@ -1,0 +1,50 @@
+body{
+  text-align: center
+}
+h4{
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+  }
+h1{
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+h2
+{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+h3{
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+p{
+  font-family: Helvetica;
+  font-size: 14px;
+}
+#Overlay{
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+#container{
+  position: absolute;
+  height: 1024;
+  width: 700;
+}
+#text{
+  position: fixed;
+ left: 500px;
+ top: 100px;
+}
+#image{
+  position: absolute;
+  left: 0;
+  top: 0;
+}
