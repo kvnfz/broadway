@@ -1,11 +1,7 @@
 body{
   text-align: center
 }
-h4{
-  font-family: Helvetica;
-  font-size: 18px;
-  color: white;
-  }
+
 h1{
   font-family: Helvetica;
   font-size: 70px;
@@ -32,19 +28,28 @@ p{
   font-size: 23px;
   font-weight: bold;
   color: white;
+  background-image: url("file:///Users/kevinfernandez/Documents/Kevin/Code%20Projects/kvnfz.github.io/kvnfz.github.io/broadway/resources/images/the-flatiron-building.png");
+  background-repeat: no-repeat;
 }
-#container{
-  position: absolute;
-  height: 1024;
-  width: 700;
-}
+
 #text{
-  position: fixed;
- left: 500px;
- top: 100px;
+  position: relative;
+  text-align: center;
 }
 #image{
   position: absolute;
   left: 0;
   top: 0;
+  height:400px;
+  width: 2048px;
+}
+#nav{
+  position: relative;
+  text-align: center;
+}
+
+#nav a{
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
 }
