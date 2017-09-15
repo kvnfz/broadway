@@ -53,3 +53,10 @@ p{
   font-size: 18px;
   color: white;
 }
+h6{
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
